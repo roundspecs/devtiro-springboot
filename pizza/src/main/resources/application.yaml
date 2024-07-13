@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: pizza
+
+pizza:
+  crust: Saimun
+  toppings: Zarif
+  sauce: Adid Bhai
